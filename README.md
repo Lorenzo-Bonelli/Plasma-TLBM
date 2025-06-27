@@ -1,2 +1,2 @@
 # Plasma-TLBM
-The desccription of a plasma using a THermal Lattice BOltzmann Method
+The desccription of a plasma using a Thermal Lattice Boltzmann Method
